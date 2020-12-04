@@ -1,37 +1,56 @@
-## Welcome to GitHub Pages
+## Introduction
+_Vahab Mirrokni_
 
-You can use the [editor on GitHub](https://github.com/gm-neurips-2020/gm-neurips-2020.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+## Application Stories
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Modeling COVID with Graph Neural Networks
+_Amol Kapoor_
 
-### Markdown
+### Using Graph Mining for Privacy 
+_Alessandro Epasto_
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Causal Inference
+_Jean Pouget-Abadie_
 
-```markdown
-Syntax highlighted code block
+## Graph Mining At Scale
 
-# Header 1
-## Header 2
-### Header 3
+### Grale: Learning Graphs
+_Jonathan Halcrow_
 
-- Bulleted
-- List
+### Similarity Ranking
+_Alessandro Epasto_
 
-1. Numbered
-2. List
+### Clustering at Scale
+_Vahab Mirrokni_
 
-**Bold** and _Italic_ and `Code` text
+### Community Detection
+_Jakub Kuba Łącki_
 
-[Link](url) and ![Image](src)
-```
+### Label Propagation
+_Allan Heydon_
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## Graph Neural Networks
 
-### Jekyll Themes
+### GNNs and Graph Embeddings
+_Bryan Perozzi_
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/gm-neurips-2020/gm-neurips-2020.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### PPRGo: GNNs at Scale
+_Amol Kapoor_
 
-### Support or Contact
+### Debiasing GNNs
+_John Palowitch_
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Learning Multiple Embeddings
+_Alessandro Epasto_
+
+## Algorithms, Systems, and Scalability
+
+### Graph Tensor
+_Martin Blais_
+
+### Distributed Graph Algorithms
+_Jakub Kuba Łącki_
+
+### Multi-core Parallel Graph Clustering
+_Jakub Kuba Łącki_
+
