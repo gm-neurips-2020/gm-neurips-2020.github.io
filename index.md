@@ -3,35 +3,35 @@ _Vahab Mirrokni_
 
 ## Application Stories
 
-### Modeling COVID with Graph Neural Networks
+#### Modeling COVID with Graph Neural Networks
 _Amol Kapoor_
 
-### Using Graph Mining for Privacy 
+#### Using Graph Mining for Privacy 
 _Alessandro Epasto_
 
-### Causal Inference
+#### Causal Inference
 _Jean Pouget-Abadie_
 
 ## Graph Mining At Scale
 
-### Grale: Learning Graphs
+#### Grale: Learning Graphs
 _Jonathan Halcrow_
 
 ### Similarity Ranking
 _Alessandro Epasto_
 
-### Clustering at Scale
+#### Clustering at Scale
 _Vahab Mirrokni_
 
-### Community Detection
+#### Community Detection
 _Jakub Kuba Łącki_
 
-### Label Propagation
+#### Label Propagation
 _Allan Heydon_
 
 ## Graph Neural Networks
 
-### GNNs and Graph Embeddings
+#### GNNs and Graph Embeddings
 _Bryan Perozzi_
 
 ### PPRGo: GNNs at Scale
