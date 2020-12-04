@@ -1,5 +1,6 @@
 theme: jekyll-theme-slate
-title: GM @ NeurIPS 2020
+title: Graph Mining & Learning
+description: at the 2020 Neural Information Processing Systems Conference
 
 github:
   is_project_page: false
