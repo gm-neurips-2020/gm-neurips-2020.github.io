@@ -29,7 +29,7 @@ _Jonathan Halcrow_
 
 In this talk, Jonathan Halcrow discusses the Grale graph building framework, a highly scalable tool for generating learned similarity graphs from arbitrary data. This talk is based on the recent paper, Grale: Designing Networks for Graph Learning ([arxiv](https://arxiv.org/abs/2007.12002?)). 
 
-### Similarity Ranking
+#### Similarity Ranking
 _Alessandro Epasto_
 
 #### Clustering at Scale
@@ -46,27 +46,27 @@ _Allan Heydon_
 #### GNNs and Graph Embeddings
 _Bryan Perozzi_
 
-### PPRGo: GNNs at Scale
+#### PPRGo: GNNs at Scale
 _Amol Kapoor_
 
 In this talk, Amol Kapoor talks about some of the challenges with running GNNs at scale, and presents a solution called PPRGo. This presentation is based on the recent paper, Scaling Graph Neural Networks with Approximate PageRank ([arxiv](https://arxiv.org/abs/2007.01570)). 
 
-### Debiasing GNNs
+#### Debiasing GNNs
 _John Palowitch_
 
-### Learning Multiple Embeddings
+#### Learning Multiple Embeddings
 _Alessandro Epasto_
 
 ## Algorithms, Systems, and Scalability
 
-### Graph Tensor
+#### Graph Tensor
 _Martin Blais_
 
 In this talk, Martin Blais discusses the infrastructure required to train graph learning models at Google scale.
 
-### Distributed Graph Algorithms
+#### Distributed Graph Algorithms
 _Jakub Kuba Łącki_
 
-### Multi-core Parallel Graph Clustering
+#### Multi-core Parallel Graph Clustering
 _Jakub Kuba Łącki_
 
