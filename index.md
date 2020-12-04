@@ -42,6 +42,8 @@ _Vahab Mirrokni_
 #### Community Detection
 _Jakub Kuba Łącki_
 
+In this talk, Jakub Łącki presents graph clustering techniques that can be used to find communities in a social network. In addition to reviewing some well-known techniques, the talk introduces a new method for detecting and evaluating communities. The new method exhibits competitive empirical performance and good theoretical properties.
+
 #### Label Propagation
 _Allan Heydon_
 
