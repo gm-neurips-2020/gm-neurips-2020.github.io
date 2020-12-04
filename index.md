@@ -54,6 +54,8 @@ In this talk, Amol Kapoor talks about some of the challenges with running GNNs a
 #### Debiasing GNNs
 _John Palowitch_
 
+In this talk, John Palowitch talks about a training-time projection for debiasing graph representations learned from unsupervised algorithms. This presentation is based on a recent paper "Debiasing Graph Embeddings via the Metadata-Orthogonal Training Unit ([arxiv](https://arxiv.org/abs/1909.11793)).
+
 #### Learning Multiple Embeddings
 _Alessandro Epasto_
 
