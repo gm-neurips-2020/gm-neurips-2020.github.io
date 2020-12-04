@@ -14,10 +14,12 @@ In this talk, Vahab Mirrokni, the founder of the Graph Mining team, introduces G
 #### Modeling COVID with Graph Neural Networks
 _Amol Kapoor_
 
-In this talk, Amol Kapoor talks about how we used GNNs to predict the change in COVID caseloads in US counties. This presentation is based on the recent paper, Examining COVID-19 Forecasting using Spatio-Temporal Graph Neural Networks ([arxiv](https://arxiv.org/abs/2007.03113)). 
+In this talk, Amol Kapoor discusses how GNNs can be used to predict the change in COVID caseloads in US counties when supplemented with spatio-temporal mobility information. This presentation is based on the recent paper, Examining COVID-19 Forecasting using Spatio-Temporal Graph Neural Networks ([arxiv](https://arxiv.org/abs/2007.03113)). 
 
 #### Using Graph Mining for Privacy 
 _Alessandro Epasto_
+
+In this talk, Alessandro Epasto reviews applications of graph mining to privacy. First, we will see an application of graph-based clustering to the privacy-preserving Google effort of Federated Learning of Cohort (FLOC). Second, we will discuss research on how to ensure privacy on graph-based applications using on-device computations. For more on FLOC, take a look at the [public announcement](https://github.com/google/ads-privacy/blob/master/proposals/FLoC/README.md). This presentation is based in part on the following papers: On-Device Algorithms for Public-Private Data with Absolute Privacy ([pdf](https://epasto.org/papers/www2019ondevice.pdf)); and Efficient Algorithms for Private-Public Graphs ([pdf](https://epasto.org/papers/kdd2015.pdf)).
 
 #### Causal Inference
 _Jean Pouget-Abadie_
