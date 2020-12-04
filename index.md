@@ -2,6 +2,8 @@
 
 The Graph Mining team at Google is excited to be presenting at the 2020 NeurIPS Conference. Please join us on Sunday, December 6th, at 1PM EST. The Expo information page can be found [here](https://nips.cc/Conferences/2020/Schedule?showEvent=20237). This page will be updated with video links after the workshop.
 
+To read more about the Graph Mining team, check out our [research page](https://research.google/teams/algorithms-optimization/graph-mining/).
+
 ## Introduction
 _Vahab Mirrokni_
 
