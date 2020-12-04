@@ -1,5 +1,5 @@
 ## Introduction
-###### Vahab Mirrokni
+_Vahab Mirrokni_
 
 ## Application Stories
 
