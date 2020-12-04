@@ -7,10 +7,14 @@ To read more about the Graph Mining team, check out our [research page](https://
 ## Introduction
 _Vahab Mirrokni_
 
+In this talk, Vahab Mirrokni, the founder of the Graph Mining team, introduces Graph Mining at a high level. This talk touches on what graphs are, why they are important, and where they appear in the world of big data. The talk then dives into the core tools that make up the Graph Mining toolbox, and lays out several canonical use cases. This talk sets up the rest of the Expo by introducing common terms and themes that will appear in the following talks.
+
 ## Application Stories
 
 #### Modeling COVID with Graph Neural Networks
 _Amol Kapoor_
+
+In this talk, Amol Kapoor discusses the results of the recent paper, Examining COVID-19 Forecasting using Spatio-Temporal Graph Neural Networks ([arxiv](https://arxiv.org/abs/2007.03113)). 
 
 #### Using Graph Mining for Privacy 
 _Alessandro Epasto_
@@ -22,6 +26,8 @@ _Jean Pouget-Abadie_
 
 #### Grale: Learning Graphs
 _Jonathan Halcrow_
+
+In this talk, Jonathan Halcrow discusses the Grale graph building framework, a highly scalable tool for generating learned similarity graphs from arbitrary data. This talk is based on the recent paper, Grale: Designing Networks for Graph Learning ([arxiv](https://arxiv.org/abs/2007.12002?)). 
 
 ### Similarity Ranking
 _Alessandro Epasto_
@@ -43,6 +49,9 @@ _Bryan Perozzi_
 ### PPRGo: GNNs at Scale
 _Amol Kapoor_
 
+In this talk, Amol Kapoor discusses the results of the recent paper, Scaling Graph Neural Networks with Approximate PageRank
+ ([arxiv](https://arxiv.org/abs/2007.01570)). 
+
 ### Debiasing GNNs
 _John Palowitch_
 
@@ -53,6 +62,8 @@ _Alessandro Epasto_
 
 ### Graph Tensor
 _Martin Blais_
+
+In this talk, Martin Blais discusses the infrastructure required to train graph learning models at Google scale.
 
 ### Distributed Graph Algorithms
 _Jakub Kuba Łącki_
