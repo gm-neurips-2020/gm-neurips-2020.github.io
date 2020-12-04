@@ -45,6 +45,8 @@ _Jakub Kuba Łącki_
 #### Label Propagation
 _Allan Heydon_
 
+In this talk, Allan Heydon describes Google's system for doing large-scale semi-supervised learning via label propagation. The algorithm requires only a small fraction of the input data instances to be labeled, and works by iteratively propagating labels along the edges of a similarity graph. Because it is implemented as a massively parallel computation, it scales to graphs with XT edges, 100B nodes, and potentially millions of distinct labels. Due to the generality of the data model, it can be applied to a wide variety of problems, including spam/abuse detection, image/video labeling, natural language processing, noisy label cleaning, label augmentation for downstream supervised model training.
+
 ## Graph Neural Networks
 
 #### GNNs and Graph Embeddings
