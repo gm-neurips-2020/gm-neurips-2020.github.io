@@ -14,7 +14,7 @@ In this talk, Vahab Mirrokni, the founder of the Graph Mining team, introduces G
 #### Modeling COVID with Graph Neural Networks
 _Amol Kapoor_
 
-In this talk, Amol Kapoor discusses the results of the recent paper, Examining COVID-19 Forecasting using Spatio-Temporal Graph Neural Networks ([arxiv](https://arxiv.org/abs/2007.03113)). 
+In this talk, Amol Kapoor talks about how we used GNNs to predict the change in COVID caseloads in US counties. This presentation is based on the recent paper, Examining COVID-19 Forecasting using Spatio-Temporal Graph Neural Networks ([arxiv](https://arxiv.org/abs/2007.03113)). 
 
 #### Using Graph Mining for Privacy 
 _Alessandro Epasto_
@@ -49,8 +49,7 @@ _Bryan Perozzi_
 ### PPRGo: GNNs at Scale
 _Amol Kapoor_
 
-In this talk, Amol Kapoor discusses the results of the recent paper, Scaling Graph Neural Networks with Approximate PageRank
- ([arxiv](https://arxiv.org/abs/2007.01570)). 
+In this talk, Amol Kapoor talks about some of the challenges with running GNNs at scale, and presents a solution called PPRGo. This presentation is based on the recent paper, Scaling Graph Neural Networks with Approximate PageRank ([arxiv](https://arxiv.org/abs/2007.01570)). 
 
 ### Debiasing GNNs
 _John Palowitch_
