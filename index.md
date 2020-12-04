@@ -34,6 +34,8 @@ In this talk, Jonathan Halcrow discusses the Grale graph building framework, a h
 #### Similarity Ranking
 _Alessandro Epasto_
 
+In this talk, Alessandro Epasto addresses the following question: how can we measure the similarity of two nodes in a graph? Similarity rankings have important applications ranging from recommender systems, link prediction and anomaly detection. We will review standard techniques in unsupervised graph similarity ranking with a focus on scalable algorithms. We will also show some recent applications of similarity ranking. This presentation is based on the following papers: Ego-net Community Mining Applied to Friend Suggestion ([pdf](http://www.vldb.org/pvldb/vol9/p324-epasto.pdf)); and Reduce and Aggregate: Similarity Rankings in Multi-Categorical Bipartite Graphs ([pdf](https://www.epasto.org/papers/reduce-aggregate.pdf)).
+
 #### Clustering at Scale
 _Vahab Mirrokni_
 
@@ -60,6 +62,9 @@ In this talk, John Palowitch talks about a training-time projection for debiasin
 
 #### Learning Multiple Embeddings
 _Alessandro Epasto_
+
+In this talk, Alessandro Epasto presents recent advances in learning graph embeddings. We will show a novel methodology to learning multiple embeddings per node that allows us to understand better the community structure of the graph and obtain improved results in downstream ML tasks such as link prediction. Our method is based on the Persona Graph method, a novel framework for graph analysis that identifies clusters in complex networks through the use of ego-network analysis. This presentation is based on the following papers: Is a Single Embedding Enough? Learning Node Representations that Capture Multiple Social Contexts
+ ([arxiv](https://arxiv.org/abs/1905.02138)); and Ego-splitting Framework: from Non-Overlapping to Overlapping Clusters ([pdf](https://www.epasto.org/papers/kdd2017.pdf)).
 
 ## Algorithms, Systems, and Scalability
 
