@@ -1,4 +1,4 @@
-## GM @ NeurIPS
+## Graph Mining @ NeurIPS
 
 The Graph Mining team at Google is excited to be presenting at the 2020 NeurIPS Conference. Please join us on Sunday, December 6th, at 1PM EST. The Expo information page can be found [here](https://nips.cc/Conferences/2020/Schedule?showEvent=20237). This page will be updated with video links after the workshop.
 
@@ -43,8 +43,10 @@ In this talk, Alessandro Epasto addresses the following question: how can we mea
 #### Clustering at Scale
 _Vahab Mirrokni_
 
+In this talk, Vahab Mirrokni provides an overview of clustering at scale. The talk starts with affinity hierarchical clustering ([pdf](http://papers.neurips.cc/paper/7262-affinity-clustering-hierarchical-clustering-at-scale.pdf)), which provides the backbone of other clustering algorithms. The talk then covers a scalable distributed balanced partitioning algorithm ([arxiv](https://arxiv.org/abs/1512.02727)), and highlights an application of balanced partitioning in cache-aware load balancing to save 32% flash bandwidth ([pdf](http://www.vldb.org/pvldb/vol12/p709-archer.pdf)). Finally, it discusses the techniques of distributed composable core-set and sketching and how they are applied to develop distributed algorithms for k-clustering and k-cover ([pdf](https://www.cs.utah.edu/~bhaskara/files/balanced-dist.pdf), [pdf](https://dl.acm.org/ft_gateway.cfm?id=3220081&type=pdf)).
+
 #### Community Detection
-_Jakub Kuba Łącki_
+_Jakub "Kuba" Łącki_
 
 In this talk, Jakub Łącki presents graph clustering techniques that can be used to find communities in a social network. In addition to reviewing some well-known techniques, the talk introduces a new method for detecting and evaluating communities. The new method exhibits competitive empirical performance and good theoretical properties.
 
@@ -84,11 +86,11 @@ _Martin Blais_
 In this talk, Martin Blais discusses the infrastructure required to train graph learning models at Google scale.
 
 #### Distributed Graph Algorithms
-_Jakub Kuba Łącki_
+_Jakub "Kuba" Łącki_
 
 In this talk, Jakub Łącki describes the challenges and techniques for processing trillion-edge graphs. The talk discusses how practical aspects of running a distributed computation are captured in the theoretical computation models, as well as how modelling and algorithmic advancements result in better empirical running times. This talk covers material from multiple research papers, including: _Connected Components at Scale via Local Contractions_ ([arxiv](https://arxiv.org/abs/1807.10727)), _Massively Parallel Computation via Remote Memory Access_ ([arxiv](https://arxiv.org/abs/1905.07533)), and _Parallel Graph Algorithms in Constant Adaptive Rounds: Theory meets Practice_ ([arxiv](https://arxiv.org/abs/2009.11552)).
 
 #### Multi-core Parallel Graph Clustering
-_Jakub Kuba Łącki_
+_Jakub "Kuba" Łącki_
 
 In this talk, Jakub Łącki presents single-machine parallel clustering algorithms that can cluster graphs of billions of edges in a few minutes.
