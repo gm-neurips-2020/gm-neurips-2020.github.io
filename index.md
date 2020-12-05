@@ -85,3 +85,4 @@ In this talk, Jakub Łącki describes the challenges and techniques for processi
 #### Multi-core Parallel Graph Clustering
 _Jakub Kuba Łącki_
 
+In this talk, Jakub Łącki presents single-machine parallel clustering algorithms that can cluster graphs of billions of edges in a few minutes.
