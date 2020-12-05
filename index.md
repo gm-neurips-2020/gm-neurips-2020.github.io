@@ -58,6 +58,8 @@ In this talk, Allan Heydon describes Google's system for doing large-scale semi-
 #### GNNs and Graph Embeddings
 _Bryan Perozzi_
 
+In this talk, Bryan Perozzi presents an overview of Graph Embeddings and Graph Convolutions. The talk begins with a high level discussion of graph embeddings -- how they are created and why they are useful. The talk then shifts to talk about Graph Convolutions. It covers how graph embeddings are used in graph convolutions, and why graph convolutional networks provide a flexible and powerful way of incorporating node context in a single unifying deep ml framework. Finally, the talk closes out with a brief discussion of some of the challenges of graph learning.
+
 #### PPRGo: GNNs at Scale
 _Amol Kapoor_
 
