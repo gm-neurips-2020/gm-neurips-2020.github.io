@@ -110,8 +110,10 @@ In this talk, Jakub Łącki presents single-machine parallel clustering algorith
 
 The presentations above are based on the work of many folks in Graph Mining. Without their hard work and dedication, this expo could not happen. Special thanks to:
 
+Aaron Archer,
 André Linhares,
 Andrew Tomkins,
+Arjun Gopalan,
 Ashkan Fard,
 CJ Carey,
 David Eisenstat, 
