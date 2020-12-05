@@ -5,7 +5,7 @@ The Graph Mining team at Google is excited to be presenting at the 2020 NeurIPS 
 To read more about the Graph Mining team, check out our [research page](https://research.google/teams/algorithms-optimization/graph-mining/).
 
 <p align="center">
-  <img width="150" src="/graph-mining-logo-1.png">
+  <img width="75" src="/graph-mining-logo-1.png">
 </p>
 
 ## Introduction
