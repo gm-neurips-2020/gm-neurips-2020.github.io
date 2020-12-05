@@ -80,6 +80,8 @@ In this talk, Martin Blais discusses the infrastructure required to train graph 
 #### Distributed Graph Algorithms
 _Jakub Kuba Łącki_
 
+In this talk, Jakub Łącki describes the challenges and techniques for processing trillion-edge graphs. The talk discusses how practical aspects of running a distributed computation are captured in the theoretical computation models, as well as how modelling and algorithmic advancements result in better empirical running times. This talk covers material from multiple research papers, including _Connected Components at Scale via Local Contractions_ ([arxiv](https://arxiv.org/abs/1807.10727)), _Massively Parallel Computation via Remote Memory Access_ ([arxiv](https://arxiv.org/abs/1905.07533)), and _Parallel Graph Algorithms in Constant Adaptive Rounds: Theory meets Practice_ ([arxiv](https://arxiv.org/abs/2009.11552)).
+
 #### Multi-core Parallel Graph Clustering
 _Jakub Kuba Łącki_
 
