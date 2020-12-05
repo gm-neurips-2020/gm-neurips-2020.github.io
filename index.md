@@ -32,6 +32,8 @@ In this talk, Alessandro Epasto reviews applications of graph mining to privacy.
 _Jean Pouget-Abadie_  
 [Research page](https://research.google/people/JeanPougetAbadie/)
 
+In this short talk, we look at how clustering can be used to run better randomized experiments. Randomized experiments allow us to estimate causal effects, but such estimation suffers when the units of interest are not independent. Clustering is used to mitigate this problem by avoiding interactions between groups of units with different treatment assignments. We also take a specific look at market experiments where different clustering techniques may be more suitable. This talk covers the following papers: _Variance Reduction in Bipartite Experiments through Correlation Clustering_ ([pdf](https://papers.nips.cc/paper/2019/file/bc047286b224b7bfa73d4cb02de1238d-Paper.pdf)); and _Randomized Experimental Design via Geographic Clustering_ ([arxiv](https://arxiv.org/abs/1611.03780)).
+
 ## Graph Mining At Scale
 
 #### Grale: Learning Graphs
