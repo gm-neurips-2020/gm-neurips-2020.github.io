@@ -9,8 +9,7 @@ To read more about the Graph Mining team, check out our [research page](https://
 </p>
 
 ## Introduction
-_Vahab Mirrokni_
-
+_Vahab Mirrokni_  
 [Research page](https://research.google/people/mirrokni/)
 
 In this talk, Vahab Mirrokni, the founder of the Graph Mining team, introduces Graph Mining at a high level. This talk touches on what graphs are, why they are important, and where they appear in the world of big data. The talk then dives into the core tools that make up the Graph Mining toolbox, and lays out several canonical use cases. This talk sets up the rest of the Expo by introducing common terms and themes that will appear in the following talks.
@@ -18,8 +17,7 @@ In this talk, Vahab Mirrokni, the founder of the Graph Mining team, introduces G
 ## Application Stories
 
 #### Modeling COVID with Graph Neural Networks
-_Amol Kapoor_
-
+_Amol Kapoor_  
 [Research page](https://research.google/people/ajkapoor/)
 
 In this talk, Amol Kapoor discusses how GNNs can be used to predict the change in COVID caseloads in US counties when supplemented with spatio-temporal mobility information. This presentation covers the recent paper: _Examining COVID-19 Forecasting using Spatio-Temporal Graph Neural Networks_ ([arxiv](https://arxiv.org/abs/2007.03113)). 
@@ -32,8 +30,7 @@ _Alessandro Epasto_
 In this talk, Alessandro Epasto reviews applications of graph mining to privacy. First, we will see an application of graph-based clustering to the privacy-preserving Google effort of Federated Learning of Cohort (FLOC). Second, we will discuss research on how to ensure privacy on graph-based applications using on-device computations. For more on FLOC, take a look at the [public announcement](https://github.com/google/ads-privacy/blob/master/proposals/FLoC/README.md). This presentation covers the following papers: _On-Device Algorithms for Public-Private Data with Absolute Privacy_ ([pdf](https://epasto.org/papers/www2019ondevice.pdf)); and _Efficient Algorithms for Private-Public Graphs_ ([pdf](https://epasto.org/papers/kdd2015.pdf)).
 
 #### Causal Inference
-_Jean Pouget-Abadie_
-
+_Jean Pouget-Abadie_  
 [Research page](https://research.google/people/JeanPougetAbadie/)
 
 ## Graph Mining At Scale
@@ -54,15 +51,13 @@ _Vahab Mirrokni_
 In this talk, Vahab Mirrokni provides an overview of clustering at scale. The talk starts with affinity hierarchical clustering ([pdf](http://papers.neurips.cc/paper/7262-affinity-clustering-hierarchical-clustering-at-scale.pdf)), which provides the backbone of other clustering algorithms. The talk then covers a scalable distributed balanced partitioning algorithm ([arxiv](https://arxiv.org/abs/1512.02727)), and highlights an application of balanced partitioning in cache-aware load balancing to save 32% flash bandwidth ([pdf](http://www.vldb.org/pvldb/vol12/p709-archer.pdf)). Finally, it discusses the techniques of distributed composable core-set and sketching and how they are applied to develop distributed algorithms for k-clustering and k-cover ([pdf](https://www.cs.utah.edu/~bhaskara/files/balanced-dist.pdf), [pdf](https://dl.acm.org/ft_gateway.cfm?id=3220081&type=pdf)).
 
 #### Community Detection
-_Jakub "Kuba" Łącki_
-
+_Jakub "Kuba" Łącki_  
 [Research page](https://research.google/people/105517/)
 
 In this talk, Jakub Łącki presents graph clustering techniques that can be used to find communities in a social network. In addition to reviewing some well-known techniques, the talk introduces a new method for detecting and evaluating communities. The new method exhibits competitive empirical performance and good theoretical properties.
 
 #### Label Propagation
-_Allan Heydon_
-
+_Allan Heydon_  
 [Research page](https://research.google/people/AllanHeydon/)
 
 In this talk, Allan Heydon describes Google's system for doing large-scale semi-supervised learning via label propagation. The algorithm requires only a small fraction of the input data instances to be labeled, and works by iteratively propagating labels along the edges of a similarity graph. Because it is implemented as a massively parallel computation, it scales to graphs with XT edges, XXXB nodes, and potentially millions of distinct labels. Due to the generality of the data model, it can be applied to a wide variety of problems, including spam/abuse detection, image/video labeling, natural language processing, noisy label cleaning, and label augmentation for downstream supervised model training. More can be found on the [Google Research Blog](https://ai.googleblog.com/2016/10/graph-powered-machine-learning-at-google.html). This presentation covers the paper: _Large Scale Distributed Semi-Supervised Learning Using Streaming Approximation_ ([arxiv](https://arxiv.org/abs/1512.01752)).
@@ -70,8 +65,7 @@ In this talk, Allan Heydon describes Google's system for doing large-scale semi-
 ## Graph Neural Networks
 
 #### GNNs and Graph Embeddings
-_Bryan Perozzi_
-
+_Bryan Perozzi_  
 [Research page](https://research.google/people/BryanPerozzi/)
 
 In this talk, Bryan Perozzi presents an overview of Graph Embeddings and Graph Convolutions. The talk begins with a high level discussion of graph embeddings -- how they are created and why they are useful. The talk then shifts to talk about Graph Convolutions. It covers how graph embeddings are used in graph convolutions, and why graph convolutional networks provide a flexible and powerful way of incorporating node context in a single unifying deep ml framework. Finally, the talk closes out with a brief discussion of some of the challenges of graph learning.
@@ -82,8 +76,7 @@ _Amol Kapoor_
 In this talk, Amol Kapoor talks about some of the challenges with running GNNs at scale, and presents a solution called PPRGo. This presentation covers the recent paper: _Scaling Graph Neural Networks with Approximate PageRank_ ([arxiv](https://arxiv.org/abs/2007.01570)). 
 
 #### Debiasing GNNs
-_John Palowitch_
-
+_John Palowitch_  
 [Research page](https://research.google/people/JohnPalowitch/)
 
 In this talk, John Palowitch talks about a training-time projection for debiasing graph representations learned from unsupervised algorithms. This presentation covers the recent paper: _Debiasing Graph Embeddings via the Metadata-Orthogonal Training Unit_ ([arxiv](https://arxiv.org/abs/1909.11793)).
@@ -97,8 +90,7 @@ In this talk, Alessandro Epasto presents recent advances in learning graph embed
 ## Algorithms, Systems, and Scalability
 
 #### Graph Tensor
-_Martin Blais_
-
+_Martin Blais_  
 [Research page](https://research.google/people/MartinBlais/)
 
 In this talk, Martin Blais discusses the infrastructure required to train graph learning models at Google scale.
