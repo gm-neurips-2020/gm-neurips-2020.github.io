@@ -12,7 +12,7 @@ To read more about the Graph Mining team, check out our [research page](https://
 _Vahab Mirrokni_  
 [Research page](https://research.google/people/mirrokni/)
 
-In this talk, Vahab Mirrokni, the founder of the Graph Mining team, introduces Graph Mining at a high level. This talk touches on what graphs are, why they are important, and where they appear in the world of big data. The talk then dives into the core tools that make up the Graph Mining toolbox, and lays out several canonical use cases. This talk sets up the rest of the Expo by introducing common terms and themes that will appear in the following talks.
+In this talk, Vahab Mirrokni, the founder of the Graph Mining team, introduces Graph Mining and Learning at a high level. This talk touches on what graphs are, why they are important, and where they appear in the world of big data. The talk then dives into the core tools that make up the Graph Mining and Learning toolbox, and lays out several canonical use cases. It also touches upon discussion of how to combine algorithms, systems, and machine learning to build a scalable graph-based learning system in different distributed environments. Finally, it provides a brief history of graph mining and learning projects at Google. The talk sets up the rest of the Expo by introducing common terms and themes that will appear in the following talks.
 
 ## Application Stories
 
