@@ -4,7 +4,9 @@ The Graph Mining team at Google is excited to be presenting at the 2020 NeurIPS 
 
 To read more about the Graph Mining team, check out our [research page](https://research.google/teams/algorithms-optimization/graph-mining/).
 
-![GM Logo](/graph-mining-logo-1.png)
+<p align="center">
+  <img width="400" src="/graph-mining-logo-1.png">
+</p>
 
 ## Introduction
 _Vahab Mirrokni_
@@ -16,12 +18,12 @@ In this talk, Vahab Mirrokni, the founder of the Graph Mining team, introduces G
 #### Modeling COVID with Graph Neural Networks
 _Amol Kapoor_
 
-In this talk, Amol Kapoor discusses how GNNs can be used to predict the change in COVID caseloads in US counties when supplemented with spatio-temporal mobility information. This presentation is based on the recent paper, _Examining COVID-19 Forecasting using Spatio-Temporal Graph Neural Networks_ ([arxiv](https://arxiv.org/abs/2007.03113)). 
+In this talk, Amol Kapoor discusses how GNNs can be used to predict the change in COVID caseloads in US counties when supplemented with spatio-temporal mobility information. This presentation covers the recent paper: _Examining COVID-19 Forecasting using Spatio-Temporal Graph Neural Networks_ ([arxiv](https://arxiv.org/abs/2007.03113)). 
 
 #### Using Graph Mining for Privacy 
 _Alessandro Epasto_
 
-In this talk, Alessandro Epasto reviews applications of graph mining to privacy. First, we will see an application of graph-based clustering to the privacy-preserving Google effort of Federated Learning of Cohort (FLOC). Second, we will discuss research on how to ensure privacy on graph-based applications using on-device computations. For more on FLOC, take a look at the [public announcement](https://github.com/google/ads-privacy/blob/master/proposals/FLoC/README.md). This presentation is based in part on the following papers: _On-Device Algorithms for Public-Private Data with Absolute Privacy_ ([pdf](https://epasto.org/papers/www2019ondevice.pdf)); and _Efficient Algorithms for Private-Public Graphs_ ([pdf](https://epasto.org/papers/kdd2015.pdf)).
+In this talk, Alessandro Epasto reviews applications of graph mining to privacy. First, we will see an application of graph-based clustering to the privacy-preserving Google effort of Federated Learning of Cohort (FLOC). Second, we will discuss research on how to ensure privacy on graph-based applications using on-device computations. For more on FLOC, take a look at the [public announcement](https://github.com/google/ads-privacy/blob/master/proposals/FLoC/README.md). This presentation covers the following papers: _On-Device Algorithms for Public-Private Data with Absolute Privacy_ ([pdf](https://epasto.org/papers/www2019ondevice.pdf)); and _Efficient Algorithms for Private-Public Graphs_ ([pdf](https://epasto.org/papers/kdd2015.pdf)).
 
 #### Causal Inference
 _Jean Pouget-Abadie_
@@ -31,12 +33,12 @@ _Jean Pouget-Abadie_
 #### Grale: Learning Graphs
 _Jonathan Halcrow_
 
-In this talk, Jonathan Halcrow discusses the Grale graph building framework, a highly scalable tool for generating learned similarity graphs from arbitrary data. This talk is based on the recent paper, _Grale: Designing Networks for Graph Learning_ ([arxiv](https://arxiv.org/abs/2007.12002?)). 
+In this talk, Jonathan Halcrow discusses the Grale graph building framework, a highly scalable tool for generating learned similarity graphs from arbitrary data. This talk covers the recent paper: _Grale: Designing Networks for Graph Learning_ ([arxiv](https://arxiv.org/abs/2007.12002?)). 
 
 #### Similarity Ranking
 _Alessandro Epasto_
 
-In this talk, Alessandro Epasto addresses the following question: how can we measure the similarity of two nodes in a graph? Similarity rankings have important applications ranging from recommender systems, link prediction and anomaly detection. We will review standard techniques in unsupervised graph similarity ranking with a focus on scalable algorithms. We will also show some recent applications of similarity ranking. This presentation is based on the following papers: _Ego-net Community Mining Applied to Friend Suggestion_ ([pdf](http://www.vldb.org/pvldb/vol9/p324-epasto.pdf)); and _Reduce and Aggregate: Similarity Rankings in Multi-Categorical Bipartite Graphs_ ([pdf](https://www.epasto.org/papers/reduce-aggregate.pdf)).
+In this talk, Alessandro Epasto addresses the following question: how can we measure the similarity of two nodes in a graph? Similarity rankings have important applications ranging from recommender systems, link prediction and anomaly detection. We will review standard techniques in unsupervised graph similarity ranking with a focus on scalable algorithms. We will also show some recent applications of similarity ranking. This presentation covers the following papers: _Ego-net Community Mining Applied to Friend Suggestion_ ([pdf](http://www.vldb.org/pvldb/vol9/p324-epasto.pdf)); and _Reduce and Aggregate: Similarity Rankings in Multi-Categorical Bipartite Graphs_ ([pdf](https://www.epasto.org/papers/reduce-aggregate.pdf)).
 
 #### Clustering at Scale
 _Vahab Mirrokni_
@@ -49,7 +51,7 @@ In this talk, Jakub Łącki presents graph clustering techniques that can be use
 #### Label Propagation
 _Allan Heydon_
 
-In this talk, Allan Heydon describes Google's system for doing large-scale semi-supervised learning via label propagation. The algorithm requires only a small fraction of the input data instances to be labeled, and works by iteratively propagating labels along the edges of a similarity graph. Because it is implemented as a massively parallel computation, it scales to graphs with XT edges, XXXB nodes, and potentially millions of distinct labels. Due to the generality of the data model, it can be applied to a wide variety of problems, including spam/abuse detection, image/video labeling, natural language processing, noisy label cleaning, and label augmentation for downstream supervised model training. More can be found on the [Google Research Blog](https://ai.googleblog.com/2016/10/graph-powered-machine-learning-at-google.html). This presentation is based on _Large Scale Distributed Semi-Supervised Learning Using Streaming Approximation_ ([arxiv](https://arxiv.org/abs/1512.01752)).
+In this talk, Allan Heydon describes Google's system for doing large-scale semi-supervised learning via label propagation. The algorithm requires only a small fraction of the input data instances to be labeled, and works by iteratively propagating labels along the edges of a similarity graph. Because it is implemented as a massively parallel computation, it scales to graphs with XT edges, XXXB nodes, and potentially millions of distinct labels. Due to the generality of the data model, it can be applied to a wide variety of problems, including spam/abuse detection, image/video labeling, natural language processing, noisy label cleaning, and label augmentation for downstream supervised model training. More can be found on the [Google Research Blog](https://ai.googleblog.com/2016/10/graph-powered-machine-learning-at-google.html). This presentation covers the paper: _Large Scale Distributed Semi-Supervised Learning Using Streaming Approximation_ ([arxiv](https://arxiv.org/abs/1512.01752)).
 
 ## Graph Neural Networks
 
@@ -59,17 +61,17 @@ _Bryan Perozzi_
 #### PPRGo: GNNs at Scale
 _Amol Kapoor_
 
-In this talk, Amol Kapoor talks about some of the challenges with running GNNs at scale, and presents a solution called PPRGo. This presentation is based on the recent paper, _Scaling Graph Neural Networks with Approximate PageRank_ ([arxiv](https://arxiv.org/abs/2007.01570)). 
+In this talk, Amol Kapoor talks about some of the challenges with running GNNs at scale, and presents a solution called PPRGo. This presentation covers the recent paper: _Scaling Graph Neural Networks with Approximate PageRank_ ([arxiv](https://arxiv.org/abs/2007.01570)). 
 
 #### Debiasing GNNs
 _John Palowitch_
 
-In this talk, John Palowitch talks about a training-time projection for debiasing graph representations learned from unsupervised algorithms. This presentation is based on a recent paper _Debiasing Graph Embeddings via the Metadata-Orthogonal Training Unit_ ([arxiv](https://arxiv.org/abs/1909.11793)).
+In this talk, John Palowitch talks about a training-time projection for debiasing graph representations learned from unsupervised algorithms. This presentation covers the recent paper: _Debiasing Graph Embeddings via the Metadata-Orthogonal Training Unit_ ([arxiv](https://arxiv.org/abs/1909.11793)).
 
 #### Learning Multiple Embeddings
 _Alessandro Epasto_
 
-In this talk, Alessandro Epasto presents recent advances in learning graph embeddings. We will show a novel methodology to learning multiple embeddings per node that allows us to understand better the community structure of the graph and obtain improved results in downstream ML tasks such as link prediction. Our method is based on the Persona Graph method, a novel framework for graph analysis that identifies clusters in complex networks through the use of ego-network analysis. This presentation is based on the following papers: _Is a Single Embedding Enough? Learning Node Representations that Capture Multiple Social Contexts_
+In this talk, Alessandro Epasto presents recent advances in learning graph embeddings. We will show a novel methodology to learning multiple embeddings per node that allows us to understand better the community structure of the graph and obtain improved results in downstream ML tasks such as link prediction. Our method is based on the Persona Graph method, a novel framework for graph analysis that identifies clusters in complex networks through the use of ego-network analysis. This presentation covers the following papers: _Is a Single Embedding Enough? Learning Node Representations that Capture Multiple Social Contexts_
  ([arxiv](https://arxiv.org/abs/1905.02138)); and _Ego-splitting Framework: from Non-Overlapping to Overlapping Clusters_ ([pdf](https://www.epasto.org/papers/kdd2017.pdf)).
 
 ## Algorithms, Systems, and Scalability
@@ -82,7 +84,7 @@ In this talk, Martin Blais discusses the infrastructure required to train graph 
 #### Distributed Graph Algorithms
 _Jakub Kuba Łącki_
 
-In this talk, Jakub Łącki describes the challenges and techniques for processing trillion-edge graphs. The talk discusses how practical aspects of running a distributed computation are captured in the theoretical computation models, as well as how modelling and algorithmic advancements result in better empirical running times. This talk covers material from multiple research papers, including _Connected Components at Scale via Local Contractions_ ([arxiv](https://arxiv.org/abs/1807.10727)), _Massively Parallel Computation via Remote Memory Access_ ([arxiv](https://arxiv.org/abs/1905.07533)), and _Parallel Graph Algorithms in Constant Adaptive Rounds: Theory meets Practice_ ([arxiv](https://arxiv.org/abs/2009.11552)).
+In this talk, Jakub Łącki describes the challenges and techniques for processing trillion-edge graphs. The talk discusses how practical aspects of running a distributed computation are captured in the theoretical computation models, as well as how modelling and algorithmic advancements result in better empirical running times. This talk covers material from multiple research papers, including: _Connected Components at Scale via Local Contractions_ ([arxiv](https://arxiv.org/abs/1807.10727)), _Massively Parallel Computation via Remote Memory Access_ ([arxiv](https://arxiv.org/abs/1905.07533)), and _Parallel Graph Algorithms in Constant Adaptive Rounds: Theory meets Practice_ ([arxiv](https://arxiv.org/abs/2009.11552)).
 
 #### Multi-core Parallel Graph Clustering
 _Jakub Kuba Łącki_
