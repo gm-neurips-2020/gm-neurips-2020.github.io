@@ -93,7 +93,7 @@ In this talk, Alessandro Epasto presents recent advances in learning graph embed
 
 ## Algorithms, Systems, and Scalability
 
-#### Graph Tensor
+#### Graph Neural Networks in TensorFlow
 _Martin Blais_  
 [Research page](https://research.google/people/MartinBlais/)
 
