@@ -97,7 +97,7 @@ In this talk, Alessandro Epasto presents recent advances in learning graph embed
 _Martin Blais_  
 [Research page](https://research.google/people/MartinBlais/)
 
-In this talk, Martin Blais discusses the infrastructure required to train graph learning models at Google scale.
+In this talk, Martin Blais discusses the infrastructure required to train graph neural network models at Google scale. We introduce a soon-to-be open-sourced TensorFlow library ("TF GNN", or "graph tensors") and a set of associated tools to prepare, represent and stream irregular graph-shaped data concurrently as TensorFlow tensors and build GNN models on top of it. We also discuss our approach to scalability and details about the implementation.
 
 #### Distributed Graph Algorithms
 _Jakub "Kuba" Łącki_
